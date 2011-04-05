@@ -1,7 +1,7 @@
 Sessões de Dojo
 ===============
 
-* 02/04/2011 - [Números Felizes][no_felizes].
+* **02/04/2011** - [Números Felizes][no_felizes].
 
 
 
